@@ -17,7 +17,5 @@ You will also need DataTabel with the [Button Extension](https://datatables.net/
 
 ## The Design
 Below is a sketch of the design. Assume for now we are dealing with one parent table (far right). This is the DataTable that we would normally have on the page. We will add a "Filter" button which will bring up a "Column Modal".
-
 ![alt text](https://github.com/bflanders/autofilter/blob/master/design.png)
-
 The Column Modal takes the columns of the table and presents in a table along the 
